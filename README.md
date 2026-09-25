@@ -20,17 +20,31 @@ Some parts are current plans. Some are long-term targets. Immigration, universit
 10. [09-JAPAN-ARRIVAL.md](09-JAPAN-ARRIVAL.md)
 11. [10-JAPAN-PR.md](10-JAPAN-PR.md)
 12. [11-POST-PR.md](11-POST-PR.md)
+13. [12-MASTER-TIMELINE.md](12-MASTER-TIMELINE.md)
+14. [13-DECISION-RULES.md](13-DECISION-RULES.md)
 
 ## Add-ons
+
+### Learning
 
 - [Computer free roadmap](resources/COMPUTER-FREE-ROADMAP.md)
 - [English roadmap](resources/ENGLISH-ROADMAP.md)
 - [Japanese roadmap](resources/JAPANESE-ROADMAP.md)
+
+### Life
+
 - [Daily life and independence](resources/DAILY-LIFE-INDEPENDENCE.md)
 - [Money and budgeting](resources/MONEY-BUDGET.md)
+- [Money and freelance](resources/MONEY-FREELANCE.md)
 - [Documents and evidence](resources/DOCUMENTS-EVIDENCE.md)
+
+### Applications and career
+
 - [University application system](resources/UNIVERSITY-APPLICATIONS.md)
 - [Job search system](resources/JOB-SEARCH.md)
+
+### Operations
+
 - [Tracking system](resources/TRACKING-SYSTEM.md)
 - [Source verification](resources/SOURCE-VERIFICATION.md)
 
