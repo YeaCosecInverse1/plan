@@ -8,6 +8,8 @@ My ladder:
 
 JLPT is useful, but it is not the whole language.
 
+The fuller Bengali bridge, free course sequence, coverage estimate and paid alternatives live in [LEARNING-SYSTEM.md](LEARNING-SYSTEM.md). This file keeps the phase-by-phase Japanese ladder.
+
 The official JLPT site describes five levels, N5 through N1. The exam measures language knowledge, reading and listening abilities through its test sections; it should therefore be treated as one measurement of Japanese ability, not a complete test of speaking/writing.
 
 Official site:

@@ -27,6 +27,7 @@ Some parts are current plans. Some are long-term targets. Immigration, universit
 
 ### Learning
 
+- [Canonical learning system: free paths, coverage, paid alternatives](resources/LEARNING-SYSTEM.md)
 - [Computer free roadmap](resources/COMPUTER-FREE-ROADMAP.md)
 - [English roadmap](resources/ENGLISH-ROADMAP.md)
 - [Japanese roadmap](resources/JAPANESE-ROADMAP.md)

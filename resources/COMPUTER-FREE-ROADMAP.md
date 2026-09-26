@@ -6,6 +6,8 @@ I use one main resource per stage, official documentation as reference, and a pr
 
 I do not collect courses.
 
+The fuller, current comparison of coverage, mastery layers, paid alternatives and limits lives in [LEARNING-SYSTEM.md](LEARNING-SYSTEM.md). This file keeps the phase-by-phase technical sequence.
+
 ## 1. COMPUTER + CS FOUNDATION
 
 Primary:

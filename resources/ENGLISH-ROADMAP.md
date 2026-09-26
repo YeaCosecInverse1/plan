@@ -6,6 +6,8 @@ I do not wait until my English is “good enough” before learning technical ma
 
 I improve English by using it.
 
+The fuller skill-by-skill resource choice, coverage estimate and paid alternative live in [LEARNING-SYSTEM.md](LEARNING-SYSTEM.md). This file keeps the day-to-day English routine.
+
 Daily:
 
 - 15–30 min reading/listening
